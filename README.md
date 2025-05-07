@@ -1,1 +1,2 @@
 # Kidney_Volume
+本仓库是基于CT图像的肾脏三维影像重建的GUI部分
